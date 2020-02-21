@@ -1,0 +1,23 @@
+/**{margin: 0; padding: 0; overflow: hidden;}**/
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+#heading1{
+    margin-bottom: -40px;
+    margin-top: 60px;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
